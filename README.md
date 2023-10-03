@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tobias021
 - 👀 I’m interested in Android development, Web development, Linux, Games, ...
-- 🌱 I’m currently learning Kotlin, Linux
-- 💞️ I’m looking to collaborate on SCP:SL plugins.
+- 🌱 I’m currently learning Kubernetes, Spring, Linux
+- 💞️ I’m looking to collaborate on Spring Angular Webapp.
 - 📫 How to reach me --> discord dm @Tobias021#5013 or discord group via https://discord.gg/S4ByHAZ5nn
 
 <!---
